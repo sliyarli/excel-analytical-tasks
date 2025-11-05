@@ -1,0 +1,89 @@
+Task 1:
+Use VLOOKUP to find the Revenue for Mark Green and check if it exceeds 4000 using an IF function.
+
+Task 2:
+Find which Region “Mary Jones” belongs to using VLOOKUP, then apply PROPER to make sure the region name starts with a capital letter.
+
+Task 3:
+Create a formula that returns “Bonus” if Nancy Hill’s Units_Sold are greater than 10 AND Rating is 5, otherwise “No Bonus.”
+
+Task 4:
+Use COUNTIFS to count how many Sales Department employees sold Monitors in the South region.
+
+Task 5:
+With SUMIFS, calculate the total Revenue made by Corporate customers in the East region.
+
+Task 6:
+Apply TRIM and CLEAN to clean text in the Employee column, removing unwanted spaces or non-printable characters.
+
+Task 7:
+Use VLOOKUP to return Customer_Segment for Emily Clark. Then combine it with IF to display “Corporate Client” or “Other Client.”
+
+Task 8:
+Use COUNTIFS to find how many IT Department employees sold Laptops and received a Rating of at least 4.
+
+Task 9:
+Use SUMIF to find total Revenue for all employees in the Finance Department.
+
+Task 10:
+Combine IF and OR: Show “High Performer” if an employee’s Rating is 5 OR Units_Sold > 15, otherwise “Regular.”
+
+Task 11:
+Use VLOOKUP to find Product sold by Laura Scott and check via IF whether it equals “Monitor.”
+
+Task 12:
+Use COUNTIFS to count employees with Revenue above 8000 in the Corporate segment.
+
+Task 13:
+Using SUMIFS, find the total Revenue from the Sales Department for Tablets sold in the South region.
+
+Task 14:
+Create a formula that shows “Excellent” if Rating = 5, “Good” if Rating = 4, and “Average” otherwise (use IFS).
+
+Task 15:
+With VLOOKUP, get the Revenue for Peter Wood and display “Target Met” if it’s ≥12000.
+
+Task 16:
+Use COUNTIFS to count HR Department employees with Corporate customers.
+
+Task 17:
+Find total Revenue from Printers sold in the West using SUMIFS.
+
+Task 18:
+Use PROPER to format all Product names properly (capitalize the first letter only).
+
+Task 19:
+With VLOOKUP, find Month of sale for Rachel Adams, and check using IF if it equals “May.”
+
+Task 20:
+Apply conditional formatting to highlight rows where Revenue > 10,000 AND Rating = 5.
+
+Task 21:
+Use COUNTIFS to count employees in IT Department who sold Laptops to Corporate customers.
+
+Task 22:
+Use SUMIFS to total Revenue for the North Region and Consumer Segment.
+
+Task 23:
+Use VLOOKUP to get Department for Jake Brown, then check via IF whether it equals “Sales.”
+
+Task 24:
+Combine IF and AND: Show “Top Seller” if Units_Sold > 12 AND Revenue > 10,000, otherwise “Standard.”
+
+Task 25:
+Use COUNTIFS to find the number of Finance employees who sold Monitors or Headphones.
+
+Task 26:
+Use SUMIFS to calculate Revenue generated from Corporate customers in December.
+
+Task 27:
+Use VLOOKUP to get the Product sold by Sophie Cook and apply PROPER to fix its casing.
+
+Task 28:
+Apply conditional formatting to highlight employees from Sales Department whose Rating is less than 4.
+
+Task 29:
+Use IF and OR: Display “Attention Needed” if Units_Sold < 7 OR Revenue < 2000.
+
+Task 30:
+Use COUNTIFS to find how many East Region employees have Ratings of 5.

@@ -1,0 +1,91 @@
+Task 1:
+Use VLOOKUP to find the Unit_Price of a given Product name and handle missing values using IFNA.
+
+Task 2:
+Using VLOOKUP (approximate match) and IF, assign a bonus category based on Revenue (e.g., Above 10000 → “High”, else “Normal”).
+
+Task 3:
+Apply PROPER, TRIM, and CLEAN to standardize names in the Salesperson column.
+
+Task 4:
+Use SUMIF to calculate total Revenue for a single Region, and wrap with IFERROR in case the region name is invalid.
+
+Task 5:
+With COUNTIF and IF, determine if any Product was sold more than 10 times.
+(If yes → “Popular”, else “Low Sales”).
+
+Task 6:
+Use INDEX and MATCH to retrieve the Discount for a given Salesperson and Product combination.
+
+Task 7:
+Using SUMIFS, calculate the total Revenue for the Corporate segment in the North region.
+
+Task 8:
+Use AVERAGEIFS to calculate the average Rating for all Furniture category products sold in May.
+
+Task 9:
+Apply XLOOKUP to find the Region where a specific Salesperson operates.
+
+Task 10:
+Use FILTER to extract all rows where Customer_Segment = “Retail” and Rating > 4.5.
+
+Task 11:
+Combine SORT and UNIQUE to list unique Product names in alphabetical order.
+
+Task 12:
+Use SORTBY to list Salespersons based on their total Revenue (descending).
+
+Task 13:
+Create a Pivot Table that shows total Revenue by Region and Category, then add a Calculated Field showing “Revenue per Unit”.
+
+Task 14:
+In a Pivot Table, create a Calculated Item under Category that combines Laptop + Tablet as “Portable Devices”.
+
+Task 15:
+Use IF and AND to flag all sales with Discount > 5% and Rating > 4.5 as “Premium Discount”.
+
+Task 16:
+Use SUMIFS and IFERROR to find the total Revenue of a Salesperson, showing “Not Found” if no record exists.
+
+Task 17:
+Use CHOOSE to create a list mapping month numbers (1–6) to their corresponding month names.
+
+Task 18:
+Use SWITCH to categorize Category values into:
+Electronics → “Tech”, Furniture → “Office”.
+
+Task 19:
+Use LARGE to find the top 3 highest Revenue values.
+
+Task 20:
+Use SMALL to find the bottom 3 Revenue values.
+
+Task 21:
+With RANK.EQ, determine the rank of each product’s Revenue in the entire dataset.
+
+Task 22:
+Apply Conditional Formatting to highlight all rows where Revenue > average Revenue.
+
+Task 23:
+Create a Data Validation drop-down list for the Region field.
+
+Task 24:
+Use Goal Seek to determine what Unit_Price is required to achieve a specific Revenue, given a fixed Units_Sold.
+
+Task 25:
+Use Scenario Manager to model three discount-rate scenarios (0%, 5%, 10%) and observe total Revenue impact.
+
+Task 26:
+Combine IF, OR, and VLOOKUP to return “Invalid” if a lookup value is not found or if it has Revenue < 1000.
+
+Task 27:
+Use COUNTIFS to count how many times each Product was sold in the Corporate segment.
+
+Task 28:
+Use AVERAGEIF to find the average Revenue for a single Region.
+
+Task 29:
+With INDEX, MATCH, and IFNA, find the Customer_Segment for a given Product safely.
+
+Task 30:
+Combine FILTER, SORT, and IF to list all sales above 10,000 Revenue in descending order.

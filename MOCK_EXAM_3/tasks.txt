@@ -1,0 +1,95 @@
+Task 1:
+Use VLOOKUP to return Units_Sold for Alice Brown and check if they are greater than 10.
+
+Task 2:
+Lookup the Department of Kevin Turner with VLOOKUP and format it using PROPER.
+
+Task 3:
+Check if Ethan Hall qualifies for “Bonus” using IF + AND:
+Units_Sold > 5 AND Rating = 3.
+
+Task 4:
+Count how many South Region employees sold Tablets using COUNTIFS.
+
+Task 5:
+Use SUMIFS to calculate total Revenue from Headphones sold to Home Office customers.
+
+Task 6:
+Clean Employee names using TRIM and CLEAN.
+
+Task 7:
+Use VLOOKUP to find Revenue for Emma Stone and show
+“High Sale” if >5000, else “Regular Sale”.
+
+Task 8:
+Count how many Finance employees sold Printers and have Rating ≥ 3.
+
+Task 9:
+Use SUMIF to calculate revenue for all HR Department employees.
+
+Task 10:
+Use IF + OR:
+Show “Star” if Units_Sold > 15 OR Rating = 5.
+
+Task 11:
+Use VLOOKUP to return Customer Segment for Peter Wood and check if it equals “Consumer”.
+
+Task 12:
+Count how many employees in Corporate segment earned Revenue ≥ 9000.
+
+Task 13:
+Use SUMIFS to sum Revenue for IT department and Laptop sales.
+
+Task 14:
+Use IFS to categorize performance by Rating:
+5=Excellent, 4=Good, others=Average.
+
+Task 15:
+With VLOOKUP, lookup Units_Sold for Sophie Cook and show “Top” if ≥9.
+
+Task 16:
+Count how many East region employees sold Monitors.
+
+Task 17:
+Use SUMIFS to find total revenue for South region and Consumer customers.
+
+Task 18:
+Convert Region names to proper case using PROPER.
+
+Task 19:
+Use VLOOKUP to find Month of Jason Fox and check if it equals “September”.
+
+Task 20:
+Conditional formatting: highlight rows where Units_Sold > 12 AND Customer_Segment = "Corporate".
+
+Task 21:
+Count IT employees with Rating 4 or higher.
+
+Task 22:
+Use SUMIFS to total Revenue from Laptop sales in West region.
+
+Task 23:
+Use VLOOKUP to find Product sold by Victoria Cox then verify if it is “Monitor”.
+
+Task 24:
+Use IF + AND:
+Show “Premium Sale” if Revenue > 9000 AND Rating = 5.
+
+Task 25:
+Count Sales department employees who sold Monitor or Printer.
+
+Task 26:
+Use SUMIFS to total Revenue from Corporate customers in June.
+
+Task 27:
+With VLOOKUP, find Revenue for George Reed and return “OK” if ≥2000 else “Low”.
+
+Task 28:
+Conditional formatting: highlight Finance employees with Rating <4.
+
+Task 29:
+Use IF + OR:
+Show “Low Performance” if Units_Sold < 8 OR Rating < 3.
+
+Task 30:
+Use COUNTIFS to count North region employees with Rating = 5.
